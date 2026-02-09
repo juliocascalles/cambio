@@ -1,0 +1,10 @@
+from banco_dados.banco_dados import BancoDados
+
+
+class Relatorio:
+    def processar_dados(self, banco_dados: BancoDados):
+        for cotacao in banco_dados.consulta():
+            ...
+
+    def exibe_informacoes(self):
+        ...
