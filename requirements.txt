@@ -1,0 +1,6 @@
+# --- Bibliotecas de acesso a banco de dados
+# (exemplo:) psycopg2  --- para acessar PostgreSql
+
+# --- Bibliotecas gráficas e de relatórios
+# (exemplo:) matplotlib
+
